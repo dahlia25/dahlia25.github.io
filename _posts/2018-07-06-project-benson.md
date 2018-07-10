@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Benson: How to query with Yelp's API
+title: Yelp Search Querying with Project Benson
 ---
 # Project Benson: How to query with Yelp's API
 
