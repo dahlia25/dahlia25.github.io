@@ -2,10 +2,10 @@
 permalink:           pretty
 
 # Setup
-title:               dma blog
-tagline:             A Moderately Okay Data Science Blog
+title:               dahlia.ma's Blog
+tagline:             Just postings of a data science starter
 url:                 http://dahlia25.github.io/
-paginate:            2
+paginate:            5
 baseurl:             ""
 
 # Assets
