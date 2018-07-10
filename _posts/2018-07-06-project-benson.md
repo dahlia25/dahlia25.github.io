@@ -2,8 +2,6 @@
 layout: post
 title: Yelp Search Querying with Project Benson
 ---
-# Project Benson: How to query with Yelp's API
-
 ## Introduction
 
 Project Benson enabled the opportunity to work with the NYC MTA turnstile data. The MTA turnstile data can be found [here](http://web.mta.info/developers/turnstile.html).The Yelp API was also used as an external source for more data support. This post will focus on how to utilize and leverage Yelp's API.
@@ -93,3 +91,4 @@ The obtained coordinates were used to map out all nearby restaurants near all sp
 ### Summary
 
 Yelp's API can be used to query many different things. Yelp offers different types of queries. A list of different queries can be found [here](https://www.yelp.com/developers/documentation/v3/business).
+
