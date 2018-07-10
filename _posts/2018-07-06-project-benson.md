@@ -2,6 +2,8 @@
 layout: post
 title: Yelp Search Querying with Project Benson
 ---
+![](/Users/dahliama/ds/metis/metisblog/metis_blog/public/yelp_image.png)
+
 ## Introduction
 
 Project Benson enabled the opportunity to work with the NYC MTA turnstile data. The MTA turnstile data can be found [here](http://web.mta.info/developers/turnstile.html).The Yelp API was also used as an external source for more data support. This post will focus on how to utilize and leverage Yelp's API.
