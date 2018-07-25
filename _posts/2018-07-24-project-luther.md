@@ -49,3 +49,14 @@ The table shown below is a summary of R-squared scores.
 |---|---|---|
 |RandomForest Reg.|0.0524|-0.0323|
 |---|---|---|
+
+As you can see, none of the models performed well with both the training and test sets. Although Polynomial Regression (degree=4) had a high training score of nearly 1.0, but the test score is terrible; indicative of overfitting.
+
+## What can we take away from this? And how can we improve?
+
+**Learned:** Cannot predict Amazon User Ratings based on phone specs.
+**Improve:** Specs data does not include user experience info, nor does it account for fake reviews.
+
+**Learned:** Regression is not a good fit for this dataset.
+**Improve:** Maybe regression just doesn't work. Could try classification models next time.
+
