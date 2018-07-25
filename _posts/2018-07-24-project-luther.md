@@ -34,3 +34,18 @@ The features are:
 
 ## Results
 
+The table shown below is a summary of R-squared scores.
+
+|---|---|---|
+|Model|Train|Test|
+|---|---|---|
+|Linear Reg.|0.0414|-0.0756|
+|---|---|---|
+|OLS|0.0414|0.0765|
+|---|---|---|
+|Lasso|0.00112|-0.0238|
+|---|---|---|
+|Polynomial (d=4)|0.999|-8.03e^11|
+|---|---|---|
+|RandomForest Reg.|0.0524|-0.0323|
+|---|---|---|
